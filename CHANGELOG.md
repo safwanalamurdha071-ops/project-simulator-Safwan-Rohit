@@ -11,3 +11,6 @@
 
 ## Version 1.4
 - Added email field to Student structure.
+
+## Version 1.5
+- Added phone number field to Student structure.

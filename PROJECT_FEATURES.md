@@ -11,3 +11,6 @@ The system now stores each student's department.
 
 ## Student Email
 The system now stores each student's email address.
+
+## Student Phone Number
+The system now stores each student's phone number.
