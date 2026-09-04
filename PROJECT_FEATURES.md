@@ -14,3 +14,6 @@ The system now stores each student's email address.
 
 ## Student Phone Number
 The system now stores each student's phone number.
+
+## Student Address
+The system now stores each student's address.
