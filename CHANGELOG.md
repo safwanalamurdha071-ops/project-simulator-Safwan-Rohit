@@ -14,3 +14,18 @@
 
 ## Version 1.5
 - Added phone number field to Student structure.
+
+## Version 1.6
+- Added address field to Student structure.
+
+## Version 1.7
+- Added gender field to Student structure.
+
+## Version 1.8
+- Added semester field to Student structure.
+
+## Version 1.9
+- Added credit hours field to Student structure.
+
+## Version 1.10
+- Added status field to Student structure.
