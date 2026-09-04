@@ -23,3 +23,6 @@ The system now stores each student's gender.
 
 ## Student Semester
 The system now stores each student's semester.
+
+## Student Credit Hours
+The system now stores each student's credit hours.
